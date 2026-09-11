@@ -15,7 +15,5 @@ noarch_platforms:
 - win_64
 provider:
   linux_aarch64: default
-  linux_ppc64le: default
   osx_arm64: default
-  win: azure
 test: native_and_emulated
